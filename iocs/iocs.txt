@@ -1,0 +1,22 @@
+# Indicadores de Compromiso - Trickbot Incident Analysis
+
+## Host comprometido
+10.5.28.229
+
+## Infraestructura externa
+36.89.106.69
+203.176.135.102:8082
+
+## Dominio
+catbomber.net
+
+## Credenciales comprometidas
+phillip.ghent / gh3ntf@st
+
+## Archivos maliciosos
+cursor.png
+imgpaper.png
+
+## SHA256
+4e76d73f3b303e481036ada80c2eeba8db2f306cbc9323748560843c80b2fed1
+934c84524389ecfb3b1dfcb28f9697a2b52ea0ebcaa510469f0d2d9086bcc79a
